@@ -79,15 +79,15 @@ body {
     width: 50vw;
     height: 20vh;
     background: #D1BBA1;
-    transform: matrix(1.66, -0.64, -0.8, -0.9, 270, 350);
+    transform: matrix(1.66, -0.64, -0.8, -0.9, 570, 350);
     opacity: .4;
 }
 
 .dropsand:hover {
-    opacity: .8;
+    opacity: 1;
     transition: 7s;
     filter: saturate(7);
-    transform: matrix(.9, .9, -0.4, -0.8, 270, 350);
+    transform: matrix(1, .9, -0.4, -0.8, 470, 350);
 }
 
 @media only screen and (max-width: 600px) {}
