@@ -36,24 +36,44 @@ input {
 
 .icons {
     position: absolute;
-    top: 15vh;
+    top: 18vh;
     right: 0;
-    width: 40vw;
+    width: 38vw;
     height: 3rem;
     background-color: grey;
 }
 
 .icons:hover {
-    transform: scale(1, 1.3) translateY(15px);
+    transform: scale(1.18, 1.18) translateX(-10px);
     /* transform: translateY(-5px); */
-    transition: 2s;
+    transition: 3.3s;
 }
 
 .fab {
     position: relative;
     top: 6px;
-    left: 5px;
+    left: 4.5vw;
     height: 2rem;
     width: 2rem;
     color: black;
+}
+
+.fas {
+    position: relative;
+    top: 6px;
+    left: 4.5vw;
+    height: 2rem;
+    width: 2rem;
+    color: black;
+}
+
+.work {
+    position: absolute;
+    top: 10vh;
+    left: 2vw;
+    font-size: 1.3vw;
+}
+
+.work h3 {
+    color: gainsboro;
 }
