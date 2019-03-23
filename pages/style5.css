@@ -97,10 +97,14 @@ input {
         top: 10vh;
         width: 50vw;
     }
+    form {
+        padding: 1rem;
+        font-size: 2.2vh;
+    }
 }
 
 @media only screen and (max-width: 500px) {
-    .icons {
+    .work {
         display: none;
     }
 }
