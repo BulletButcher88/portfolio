@@ -36,15 +36,15 @@ input {
 
 .icons {
     position: absolute;
-    top: 18vh;
+    top: 0vh;
     right: 0;
-    width: 38vw;
+    width: 50vw;
     height: 3rem;
     background-color: grey;
 }
 
 .icons:hover {
-    transform: scale(1.18, 1.18) translateX(-10px);
+    transform: scale(1.14, 1.14) translateX(-10px);
     /* transform: translateY(-5px); */
     transition: 3.3s;
 }
@@ -70,10 +70,37 @@ input {
 .work {
     position: absolute;
     top: 10vh;
-    left: 2vw;
-    font-size: 1.3vw;
+    left: 1.4vw;
+    font-size: 1.5vw;
 }
 
 .work h3 {
     color: gainsboro;
+}
+
+.work ol {
+    padding: 5px;
+}
+
+.work ol p {
+    color: rgb(181, 181, 181);
+}
+
+@media only screen and (max-width: 720px) {
+    .work {
+        position: absolute;
+        top: 10vh;
+        left: 1.4vw;
+        font-size: 1.8vw;
+    }
+    .icons {
+        top: 10vh;
+        width: 50vw;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .icons {
+        display: none;
+    }
 }
