@@ -8,13 +8,13 @@
 
 body {
     background-color: black;
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     opacity: 0.8;
     height: 100%;
 }
 
 form {
-    padding: 2rem;
+    padding: 1.3rem;
     font-size: 2.7vh;
 }
 
