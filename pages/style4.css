@@ -36,7 +36,7 @@ body {
     left: 3rem;
     right: 3rem;
     filter: saturate(.30);
-    opacity: 0.4;
+    opacity: 0.6;
 }
 
 
@@ -71,7 +71,7 @@ body {
     opacity: 0.8;
     transition: 7s;
     filter: saturate(3);
-    transform: matrix(1.9, -1.7, -1.9, 6, 110, 330);
+    transform: matrix(2.9, 0.5, -1.9, 6, 110, 330);
 }
 
 .dropsand {
@@ -87,6 +87,7 @@ body {
     opacity: .8;
     transition: 7s;
     filter: saturate(7);
+    transform: matrix(.9, .9, -0.4, -0.8, 270, 350);
 }
 
 @media only screen and (max-width: 600px) {}
