@@ -14,15 +14,31 @@ body {
     height: 100%;
 }
 
+.pagesicon {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 13rem;
+    position: fixed;
+    right: 0;
+    height: 22px;
+}
+
+.fas {
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(113, 113, 113);
+}
+
 #example {
     text-decoration: none;
     color: rgb(131, 131, 131);
-    font-size: 1.6rem;
+    font-size: 1.13rem;
 }
 
 .nav_bar {
     position: fixed;
-    height: 40px;
+    height: 50px;
     z-index: 10;
     background-color: black;
     width: 100%;
