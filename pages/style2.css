@@ -152,6 +152,7 @@
             opacity: 5;
         }
         .grid {
+            margin-top: 50px;
             font-size: 0.8rem;
             height: 100vh;
             grid-template-columns: 1fr 1fr;
