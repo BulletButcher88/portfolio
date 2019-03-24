@@ -15,9 +15,11 @@ The goal of the site is to challange the user, and spark the imagnation.
 
 I am inspired by two tv series Black Mirror and Love, Death and Robots. I set to try create a platform in a simular style, adding to it my creative artistic style.
 
-/images/screenshots/Screen Shot 2019-03-24 at 10.12.00 PM.png
 
-images/screenshots/Screen Shot 2019-03-24 at 10.12.11 PM.png
+![Screenshot](/images/screenshots/Screen Shot 2019-03-24 at 10.12.00 PM.png)
+![Screenshot](images/screenshots/Screen Shot 2019-03-24 at 10.12.11 PM.png)
+
+
 
 
 **PROJECT MANAGE**
