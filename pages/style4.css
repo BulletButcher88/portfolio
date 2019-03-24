@@ -30,6 +30,11 @@ body {
     color: rgb(113, 113, 113);
 }
 
+.fas:hover {
+    color: rgb(170, 169, 169);
+    transform: scale(1.1, 1.1);
+}
+
 #example {
     text-decoration: none;
     color: rgb(131, 131, 131);

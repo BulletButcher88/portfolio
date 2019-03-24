@@ -42,6 +42,11 @@ body {
     color: rgb(113, 113, 113);
 }
 
+.fas:hover {
+    color: rgb(170, 169, 169);
+    transform: scale(1.1, 1.1);
+}
+
 .text {
     display: flex;
     justify-content: center;

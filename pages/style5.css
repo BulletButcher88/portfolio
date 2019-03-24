@@ -74,6 +74,16 @@ input {
     color: black;
 }
 
+.fas:hover {
+    color: rgb(170, 169, 169);
+    transform: scale(1.1, 1.1);
+}
+
+.fab:hover {
+    color: rgb(170, 169, 169);
+    transform: scale(1.1, 1.1);
+}
+
 .work {
     position: absolute;
     top: 15vh;
