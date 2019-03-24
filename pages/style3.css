@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    height: calc(100vh - 50px);
+    height: 100vh;
     box-sizing: border-box;
 }
 
@@ -23,6 +23,7 @@ body {
     bottom: 0;
     width: 100%;
     opacity: 1;
+    z-index: 3;
 }
 
 .pagesicon {
