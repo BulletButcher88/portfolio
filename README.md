@@ -15,18 +15,18 @@ The goal of the site is to challange the user, and spark the imagnation.
 
 I am inspired by two tv series Black Mirror and Love, Death and Robots. I set to try create a platform in a simular style, adding to it my creative artistic style.
 
+![Image description](https://github.com/BulletButcher88/portfolio/blob/master/images/screenshots/Screen%20Shot%202019-03-24%20at%2010.12.00%20PM.png)
 
-![Screenshot](/images/screenshots/Screen Shot 2019-03-24 at 10.12.00 PM.png)
-![Screenshot](images/screenshots/Screen Shot 2019-03-24 at 10.12.11 PM.png)
+![Image description](https://github.com/BulletButcher88/portfolio/blob/master/images/screenshots/Screen%20Shot%202019-03-24%20at%2010.12.11%20PM.png)
 
 
 
 
 **PROJECT MANAGE**
 
-/images/screenshots/Screen Shot 2019-03-23 at 7.24.12 PM.png
+![Image description](https://github.com/BulletButcher88/portfolio/blob/master/images/screenshots/Screen%20Shot%202019-03-23%20at%207.24.12%20PM.png)
 
-/images/screenshots/Screen Shot 2019-03-24 at 7.39.14 PM.png
+![Image description](https://github.com/BulletButcher88/portfolio/blob/master/images/screenshots/Screen%20Shot%202019-03-24%20at%207.39.14%20PM.png)
 
 
 **Describe key events in the development of the internet from the 1980s to today (max. 150 words)**
