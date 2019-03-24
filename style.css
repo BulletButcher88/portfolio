@@ -66,10 +66,10 @@ body {
     grid-column: 1 / 2;
     color: white;
     position: relative;
-    top: 45%;
     margin: 0 auto;
     text-decoration: none;
     opacity: 1;
+    padding-top: 20vh;
 }
 
 .artwork {
@@ -87,11 +87,11 @@ body {
     grid-row: 1 / 2;
     grid-column: 2 / 3;
     position: relative;
-    top: 45%;
     margin: 0 auto;
     color: white;
     text-decoration: none;
     opacity: 1;
+    padding-top: 20vh;
 }
 
 .arty {
@@ -109,11 +109,11 @@ body {
     grid-row: 2 / 3;
     grid-column: 1 / 2;
     position: relative;
-    top: 45%;
     color: white;
     text-decoration: none;
     opacity: 1;
     margin: 0 auto;
+    padding-top: 20vh;
 }
 
 .business_card {
@@ -131,11 +131,11 @@ body {
     grid-row: 2 / 3;
     grid-column: 2 / 3;
     position: relative;
-    top: 45%;
     margin: 0 auto;
     color: white;
     text-decoration: none;
     opacity: 1;
+    padding-top: 20vh;
 }
 
 
@@ -195,7 +195,7 @@ body {
         color: rgb(131, 131, 131);
     }
     .film-text {
-        top: 12%;
+        padding-top: 2vh;
         color: white;
         text-decoration: none;
         opacity: 1;
@@ -206,7 +206,7 @@ body {
         height: 25vh;
     }
     .artwork-text {
-        top: 14%;
+        padding-top: 2vh;
         color: white;
         text-decoration: none;
         opacity: 1;
@@ -217,7 +217,7 @@ body {
         height: 25vh;
     }
     .arty-text {
-        top: 14%;
+        padding-top: 2vh;
         color: white;
         text-decoration: none;
         opacity: 1;
@@ -228,9 +228,11 @@ body {
         height: 25vh;
     }
     .business_cardtext {
-        top: 13%;
+        padding-top: 2vh;
         color: white;
         text-decoration: none;
         opacity: 1;
+        margin: 0 auto;
+        z-index: 1;
     }
 }
