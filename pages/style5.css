@@ -76,7 +76,7 @@ input {
 
 .work {
     position: absolute;
-    top: 10vh;
+    top: 15vh;
     left: 1.4vw;
     font-size: 1.5vw;
 }
@@ -96,7 +96,7 @@ input {
 @media only screen and (max-width: 720px) {
     .work {
         position: absolute;
-        top: 10vh;
+        top: 15vh;
         left: 1.4vw;
         font-size: 1.8vw;
     }
